@@ -15,4 +15,5 @@ Check out the demo here: [click here](https://instasnap.prototypolab.com)
 
 ### Features
 * Authentication with Devise
+* Follow User
 * Transactional Email
