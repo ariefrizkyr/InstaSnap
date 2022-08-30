@@ -1,5 +1,5 @@
 # InstaSnap
-### Developed by [Arief R Ramadhan](https://ariefrizky.com)
+### Developed by [Arief R Ramadhan](https://ariefrizkyr.com)
 
 This is a "Just for Fun" project. InstaSnap is a clone of Instagram.
 
